@@ -33,7 +33,8 @@ Tech Stack:
 - HTTP Client (Laravel Http Facade)
 
 Environment Variables:
-Add your PayMongo secret key: PAYMONGO_SECRET_KEY=your_secret_key_here
+
+- Add your PayMongo secret key: PAYMONGO_SECRET_KEY=your_secret_key_here
 
 Running the Project:
 
